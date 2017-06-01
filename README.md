@@ -2,3 +2,4 @@
 Projekt 1
 Moj projekt
 Galazka_od_master
+Modyfikuje pli - galaz_1
